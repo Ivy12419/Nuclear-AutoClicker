@@ -1,4 +1,4 @@
-# Nuclear Auto Clicker
+# Nuclear AutoClicker
 
 Fast and easy to use Auto Clicker with a simple GUI.
 
