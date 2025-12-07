@@ -11,5 +11,5 @@ Fast and easy to use Auto Clicker with a simple GUI.
 
 ## Note on Antivirus Warnings
 Because Nuclear AutoClicker automates mouse and keyboard input, some antivirus programs (including Windows Defender) may flag it as potentially unsafe.  
-This is a **false positive** — the application does not contain malware and is safe to use.  
+This is a **false positive**,  the application does not contain malware and is safe to use.  
 If you encounter a warning, you can safely allow the program to run.
